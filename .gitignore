@@ -5,8 +5,10 @@ target/
 !**/src/test/**/target/
 
 
+
 # Ignore Spring Boot application properties
 src/main/resources/application.properties
+out/
 
 ### STS ###
 .apt_generated
